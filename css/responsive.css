@@ -1,0 +1,331 @@
+@media (max-width: 1124px) {
+    
+    .header-wraper{
+        max-width: 1124px;
+        width: 100%;
+        height: auto;
+    }
+    .landings{
+        font-size: 25px;
+    }
+
+    .nav-a{
+        font-size: 12px;
+    }
+    .fa-facebook{
+        font-size: 15px;
+    }
+    .fa-instagram{
+        font-size: 15px;
+    }
+    .title-header{
+        font-size: 70px;
+        
+    }
+    .title-headerrm{
+        font-size: 70px;
+    }
+    .title-headerabout{
+        font-size: 70px;
+    }
+    .paragraph{
+        font-size: 30px;
+    }
+    .flex {
+        max-width: 1124px;
+         width: 100%;
+         flex-direction: column;
+        align-items: center 
+     }
+     .kingh1{
+        font-size:20px ;
+     }
+     .kingp1{
+        font-size:15px ;
+     }
+     .container {
+         max-width: 1124px;
+         width: 100%; 
+         flex-wrap: wrap;
+    }
+    .headertext{
+        font-size: 15px;
+    }
+    .text{  
+        font-size: 15px;
+    }
+     .wraper-box  {
+         max-width: 1124px;
+         width: 100%;
+     }
+     .call{
+        font-size:25px ;
+     }
+     .number{
+        font-size:25px ;
+     }
+    
+    .nav  {
+        max-width: 1124px;
+         width: 100%;    
+        }
+    .ul{
+        max-width: 1124px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .divparagraph{
+        font-size: 15px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .flexgallery{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .staffparagraph{
+        font-size:50px ;
+        }
+    .contact{
+    font-size: 18px;
+    }
+    .info{
+    font-size: 25px;
+    }
+    .infoaddress{
+     font-size: 25px;
+    }
+    }
+
+/* 1000 */
+@media (max-width: 1000px) {
+    .navigation {
+        display: none;
+    }
+    .fa-facebook{
+        display: none;
+    } 
+     .fa-instagram{
+        display: none;
+    }
+    .burger-icon  {
+        display: block;
+    } 
+    .header-wraper{
+        max-width: 1000px;
+        width: 100%;
+        height: auto;
+    }
+    .landings{
+        font-size: 20px;
+    }
+    
+    .title-header{
+        font-size: 50px;
+        
+    }
+    .title-headerrm{
+        font-size: 50px;
+    }
+    .title-headerabout{
+        font-size: 50px;
+    }
+    .paragraph{
+        font-size: 20px;
+    }
+    .flex {
+        max-width: 1000px;
+         width: 100%;
+         flex-direction: column;
+        align-items: center 
+     }
+     .kingh1{
+        font-size:15px ;
+     }
+     .kingp1{
+        font-size:15px ;
+     }
+     .container {
+         max-width: 1000px;
+         width: 100%; 
+         flex-wrap: wrap;
+    }
+    .headertext{
+        font-size: 15px;
+    }
+    .text{  
+        font-size: 15px;
+    }
+     .wraper-box  {
+         max-width: 1000px;
+         width: 100%;
+     }
+     .call{
+        font-size:20px ;
+     }
+     .number{
+        font-size:20px ;
+     }
+    
+    .nav  {
+        max-width: 1000px;
+         width: 100%;    
+        }
+    .ul{
+        max-width: 1000px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .name{
+        font-size:15px ;
+    }
+    .nav-b{
+        font-size:15px ;
+    }
+    .divparagraph{
+        font-size: 12px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .staffparagraph{
+    font-size: 30px;
+    }
+    .staffimage{
+        max-width: 1000px;
+        width: 100%;
+    }
+    .contact{
+        font-size: 15px;
+        }
+        .info{
+        font-size: 20px;
+        }
+        .infoaddress{
+         font-size: 20px;
+        }
+    .map{
+        max-width: 600px;
+        width: 100%;
+    }
+    .section-form{
+        max-width: 500px;
+        width:100%;
+    }
+    .btn-submit{
+        max-width: 200px;
+        width: 100%;
+    }
+}
+
+/* 480 */
+@media (max-width: 480px){
+    .header-wraper{
+        max-width: 480px;
+        width: 100%;
+        height: auto;
+    }
+    .landings{
+        font-size: 10px;
+    }
+    
+    .title-header{
+        font-size: 25px;
+        
+    }
+    .title-headerrm{
+        font-size: 25px;
+    }
+    .title-headerabout{
+        font-size: 25px;
+    }
+    .paragraph{
+        font-size: 10px;
+    }
+    .flex {
+        max-width: 480px;
+         width: 100%;
+         flex-direction: column;
+        align-items: center 
+     }
+     .kingh1{
+        font-size:7.5px ;
+     }
+     .kingp1{
+        font-size:7.5px ;
+     }
+     .container {
+         max-width: 480px;
+         width: 100%; 
+         flex-wrap: wrap;
+    }
+    .headertext{
+        font-size: 7.5px;
+    }
+    .text{  
+        font-size: 7.5px;
+    }
+     .wraper-box  {
+         max-width: 480px;
+         width: 100%;
+     }
+     .call{
+        font-size:10px ;
+     }
+     .number{
+        font-size:10px ;
+     }
+    
+    .nav  {
+        max-width: 480px;
+         width: 100%;    
+        }
+    .ul{
+        max-width: 480px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .name{
+        font-size:7.5px ;
+    }
+    .nav-b{
+        font-size:7.5px ;
+    }
+    .divparagraph{
+        font-size: 8px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .staffparagraph{
+    font-size: 15px;
+    }
+    .staffimage{
+        max-width: 480px;
+        width: 100%;
+    }
+    .contact{
+        font-size: 7.5px;
+        }
+        .info{
+        font-size: 10px;
+        }
+        .infoaddress{
+         font-size: 10px;
+        }
+    .map{
+        max-width: 200px;
+        width: 100%;
+    }
+    .section-form{
+        max-width: 200px;
+        width:100%;
+    }
+    .btn-submit{
+        max-width: 100px;
+        width: 100%;
+    }
+}
+
